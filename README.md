@@ -6,10 +6,17 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+heunseo+Ryu;Backend+developer;백엔드개발자+류현서입니다👋;" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
-<details>
-<summary>About Me</summary>
 
 <div align="left">  
+
+## INFO
+Portfolio. https://www.notion.so/2024-applyforducami-8/5aad824a03344b368bc0c972a4c60f75
+
+E-mail.  [heunseo9@gmail.com](mailto:heunseo9@gmail.com)
+
+github. [@heunseoRyu](https://github.com/heunseoRyu)
+
+Blog. [heunseo7710](https://velog.io/@heunseo7710)
 
 ## OBJECTIVE
 Backend Developer  
@@ -49,13 +56,7 @@ IT교육동아리 DUCAMI 부장
 </div>
 </div>
 
-</details>
-<br><br>
-<div align="center">
-<!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heunseoRyu&layout=donut&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=ffffff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=heunseoRyu&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=ffffff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heunseoRyu&theme=github&bg_color=0D1117&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+
 
 <br><br>
 <!-- Hit counter -->
