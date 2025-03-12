@@ -10,7 +10,7 @@
 <div align="left">  
 
 ## INFO
-Portfolio. [https://www.notion.so/2024-applyforducami-8/5aad824a03344b368bc0c972a4c60f75](https://buly.kr/DPTSnte)
+Portfolio. https://buly.kr/DPTSnte
 
 E-mail.  [heunseo9@gmail.com](mailto:heunseo9@gmail.com)
 
