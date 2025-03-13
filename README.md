@@ -10,7 +10,7 @@
 <div align="left">  
 
 ## INFO
-Portfolio. https://buly.kr/DPTSnte
+Portfolio. https://url.kr/kq9px9
 
 E-mail.  [heunseo9@gmail.com](mailto:heunseo9@gmail.com)
 
